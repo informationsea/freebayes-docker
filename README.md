@@ -1,6 +1,6 @@
 # freebayes-docker
 
-FASTQC Docker Container
+freebayes Docker Container
 
 * [GitHub](https://github.com/informationsea/freebayes-docker)
 * [DockerHub](https://hub.docker.com/r/informationsea/freebayes)
